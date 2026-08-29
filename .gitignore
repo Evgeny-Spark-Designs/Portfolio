@@ -1,0 +1,24 @@
+# Unused template media (leftover from the original Webflow template) -
+# not referenced anywhere in index.html/page.html. Keeping them out of the
+# deployed repo; only the assets actually used by the site are whitelisted.
+images/*
+!images/OpenGraph.jpg
+!images/badge-shopify.png
+!images/badge-surron.png
+!images/favicon.png
+!images/oleg-evsin-hero-v5.png
+!images/spark-avatar.png
+!images/spark-case-1.jpg
+!images/spark-case-2.jpg
+!images/spark-case-3.png
+!images/spark-case-4.jpg
+!images/spark-case-5.png
+!images/spark-case-6.png
+!images/webclip.png
+
+videos/*
+!videos/spark-case-3.mp4
+!videos/spark-case-5.mp4
+!videos/spark-case-6.mp4
+
+images_new_src/
